@@ -18,18 +18,18 @@ Técnicos registram serviços realizados, incluindo **uso de peças** e **evidê
 Todas as notificações e atividades são registradas para **rastreabilidade**.  
 
 ## ⚡Principais Objetivos
-- Agilizar e Organizar a Manutenção
-  Melhorar a eficiência no gerenciamento da manutenção preventiva e programada.
+- Agilizar e Organizar a Manutenção.
+  - Melhorar a eficiência no gerenciamento da manutenção preventiva e programada.
 - Facilitar a Comunicação entre Setores
-  Integrar Produção/Engenharia e Manutenção para um fluxo de trabalho mais ágil.
-- Rastreabilidade e Histórico de Manutenção
-  Registrar todas as notificações e serviços realizados para auditoria e consulta futura.
-- Gerenciamento de Prioridades
-  Classificar notificações por urgência e permitir controle sobre paradas de máquina.
-- Documentação e Evidências
-  Permitir anexar fotos, PDFs e informações detalhadas para melhor controle dos serviços.
-- Controle de Acesso e Permissões
-  Definir níveis de usuários (técnicos, supervisores, PCM) com permissões específicas.
+  - Integrar Produção/Engenharia e Manutenção para um fluxo de trabalho mais ágil.
+- Rastreabilidade e Histórico de Manutenção.
+  - Registrar todas as notificações e serviços realizados para auditoria e consulta futura.
+- Gerenciamento de Prioridades.
+  - Classificar notificações por urgência e permitir controle sobre paradas de máquina.
+- Documentação e Evidências.
+  - Permitir anexar fotos, PDFs e informações detalhadas para melhor controle dos serviços.
+- Controle de Acesso e Permissões.
+  - Definir níveis de usuários (técnicos, supervisores, PCM) com permissões específicas.
 
 ## 💻 *Principais Tecnologias*
 ### Protótipo
