@@ -30,7 +30,15 @@ Todas as notificações e atividades são registradas para **rastreabilidade**.
   - Permitir anexar fotos, PDFs e informações detalhadas para melhor controle dos serviços.
 - Controle de Acesso e Permissões.
   - Definir níveis de usuários (técnicos, supervisores, PCM) com permissões específicas.
+ 
 
+## 🚀 Controle de Versão   
+
+Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **GitFlow**. Sendo assim isso permite:  
+- Gerenciamento de branches.  
+- Histórico de alterações e versionamento do código.  
+- Facilidade na implementação de novas funcionalidades, correções e manutenções.
+  
 ## 💻 *Principais Tecnologias*
 ### Protótipo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
