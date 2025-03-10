@@ -1,5 +1,11 @@
 # 🔧 Aplicativo para Sistema de Gerenciamento de Manutenção 🔨
 
+# Integrantes:
+## Giovanni Crescenzi Bogner
+## Gustavo Marcelo Soares da Rosa
+## André Lucca Gaem Lorena Robim
+## Thiago Carvalho Carneiro da Fontoura
+
 ## 📜 Resumo
 
 O aplicativo foi desenvolvido para atender às demandas de corporações que buscam maior agilidade e segurança nas suas ações de manutenção, tanto preventiva quanto programada. Ele se destaca por sua capacidade de gerenciar efetivamente as atividades relacionadas à manutenção, oferecendo uma interface intuitiva e funcionalidades específicas para diferentes grupos de usuários.
