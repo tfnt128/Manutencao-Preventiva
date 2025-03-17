@@ -52,9 +52,9 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 
 ## 👤 Personas e Histórias
 ### Personas:
-<https://miro.com/welcomeonboard/VFdQQ3dhbGZmaEExRUY0dkhHRDQvaXdkQUFkc0FIMzRKUVY1YzJscGg4aEpuYW1RVnlMUG15R0J1RnJ6ZmdyRUhMOW1tVXNqMllIQzU3Vmkxbnd0SEhrQlFOVHNQYlBrRUh5VVFWWWI0NFhITVFlWHYvYWtCY1NLK0tEMlN3L2FBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=997674340878a></a>
+[Personas](https://miro.com/app/board/uXjVIQO39Sw=/?share_link_id=523911935066)
 ### Histórias:
-<https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga></a>
+[Histórias](https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga)
 
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
