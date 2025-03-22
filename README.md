@@ -56,6 +56,8 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ### Histórias:
 [Histórias](https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga)
 
+## 💰Monetização
+[Monetização](https://docs.google.com/document/d/1jei-thDnd4v6yPKlrNNZwc4VZ0_6gmfU/edit?usp=sharing&ouid=100082239877407507277&rtpof=true&sd=true)
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
 ## Gustavo Marcelo Soares da Rosa
