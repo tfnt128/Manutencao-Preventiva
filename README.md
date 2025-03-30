@@ -58,6 +58,10 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 
 ## 💰Monetização
 [Monetização](https://docs.google.com/document/d/1jei-thDnd4v6yPKlrNNZwc4VZ0_6gmfU/edit?usp=sharing&ouid=100082239877407507277&rtpof=true&sd=true)
+
+## 📜 Fluxograma 
+[Fluxograma](https://miro.com/app/board/uXjVIJNQHCw=/?share_link_id=523911935066)
+
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
 ## Gustavo Marcelo Soares da Rosa
