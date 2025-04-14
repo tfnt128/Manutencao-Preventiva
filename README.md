@@ -62,6 +62,9 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ## 📜 Fluxograma 
 [Fluxograma](https://miro.com/app/board/uXjVIJNQHCw=/?share_link_id=523911935066)
 
+## 🤖 Protótipo
+[Protótipo](https://andre55z.github.io/PrototipoManutencPrevent/)
+
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
 ## Gustavo Marcelo Soares da Rosa
