@@ -50,11 +50,13 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 👤 Personas e Histórias
+## 👤 Personas, Histórias e Jornadas
 ### Personas:
 [Personas](https://miro.com/app/board/uXjVIQO39Sw=/?share_link_id=523911935066)
 ### Histórias:
 [Histórias](https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga)
+###
+[Jornadas](https://docs.google.com/document/d/10misB9ikd36wNus5Er6NvSV9rlcsPlX8v5ppIzgldgk/edit?usp=sharing).
 
 ## 💰Monetização
 [Monetização](https://docs.google.com/document/d/1jei-thDnd4v6yPKlrNNZwc4VZ0_6gmfU/edit?usp=sharing&ouid=100082239877407507277&rtpof=true&sd=true)
