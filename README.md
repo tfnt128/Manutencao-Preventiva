@@ -55,7 +55,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 [Personas](https://miro.com/app/board/uXjVIQO39Sw=/?share_link_id=523911935066)
 ### Histórias:
 [Histórias](https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga)
-###
+### Jornadas
 [Jornadas](https://docs.google.com/document/d/10misB9ikd36wNus5Er6NvSV9rlcsPlX8v5ppIzgldgk/edit?usp=sharing).
 
 ## 💰Monetização
