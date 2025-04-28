@@ -67,6 +67,9 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ## 🤖 Protótipo
 [Protótipo](https://andre55z.github.io/PrototipoManutencPrevent/)
 
+## 🎥 Vídeo de apresentação
+[Vídeo de apresentação do projeto](https://we.tl/t-2O5fQ0FB8T)
+
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
 ## Gustavo Marcelo Soares da Rosa
