@@ -74,7 +74,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 [Diagrama ER](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
 
 ## Diagrama UML/Modelo Conceitual
-[Diagrama UML]([https://miro.com/ai/uml-diagram-ai/](https://miro.com/welcomeonboard/V0l6VTQ1QXVCblJuODhpV1JERno4VVA2MHBxMy82NnQzcjV0VGcvMmVRbUd6MmNQdTd2cDliMGZTSlE1TE9jYW1UT2xVcW5sa28xenBTTDAvZC9PcjQvaXhwUkhZYTJMUS9BemhDZjgxcVpvbkdmcGh6YWwreFVUQXM2TktQVDBhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=944107311074))
+[Diagrama UML](https://miro.com/welcomeonboard/V0l6VTQ1QXVCblJuODhpV1JERno4VVA2MHBxMy82NnQzcjV0VGcvMmVRbUd6MmNQdTd2cDliMGZTSlE1TE9jYW1UT2xVcW5sa28xenBTTDAvZC9PcjQvaXhwUkhZYTJMUS9BemhDZjgxcVpvbkdmcGh6YWwreFVUQXM2TktQVDBhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=944107311074)
 
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
