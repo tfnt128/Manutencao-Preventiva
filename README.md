@@ -74,7 +74,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 [Diagrama ER](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
 
 ## Diagrama UML/Modelo Conceitual
-[Diagrama ER](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
+[Diagrama UML](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
 
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
