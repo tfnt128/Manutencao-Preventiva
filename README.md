@@ -65,7 +65,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 [Fluxograma](https://miro.com/app/board/uXjVIJNQHCw=/?share_link_id=523911935066)
 
 ## 🤖 Protótipo
-[Protótipo](https://andre55z.github.io/PrototipoManutencPrevent/)
+[Protótipo](https://www.figma.com/design/zLMbxKJMbvdY1y13SZvsDA/Untitled?node-id=0-1&t=7Zq54F2dXpquuT1S-1)
 
 ## 🎥 Vídeo de apresentação
 [Vídeo de apresentação do projeto](https://we.tl/t-2O5fQ0FB8T)
@@ -75,6 +75,8 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 
 ## Diagrama UML/Modelo Conceitual
 [Diagrama UML](https://miro.com/welcomeonboard/V0l6VTQ1QXVCblJuODhpV1JERno4VVA2MHBxMy82NnQzcjV0VGcvMmVRbUd6MmNQdTd2cDliMGZTSlE1TE9jYW1UT2xVcW5sa28xenBTTDAvZC9PcjQvaXhwUkhZYTJMUS9BemhDZjgxcVpvbkdmcGh6YWwreFVUQXM2TktQVDBhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=944107311074)
+
+## 
 
 # 🤝 Membros Integrantes:
 ## Giovanni Crescenzi Bogner
