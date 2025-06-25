@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(74, 109, 139);
+}
+
+#sides{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    height: 100%;
+    margin: 0;
+
+
+}
+.InsertData{
+    padding-left: 10rem;
+}

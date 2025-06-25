@@ -1,0 +1,21 @@
+#bt {
+    padding-left: 10rem;
+}
+
+#btlg {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  background-color: #00e800;
+  color: white;
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width:300px;
+  padding-bottom: 1rem;
+}
+
+#btlg:hover {
+  background-color: #238b03; /* azul mais escuro no hover */
+}
