@@ -4,7 +4,7 @@ import './SemConta.css'
 function SemConta(){
     return(
         <>
-            <a>Registrar conta</a>
+            <a href="#">Registrar conta</a>
         </>
     )
 }
