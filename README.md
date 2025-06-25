@@ -49,6 +49,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-00000?style=for-the-badge&logo=react&logoColor=white)
 
 ## 👤 Personas, Histórias e Jornadas
 ### Personas:
