@@ -57,7 +57,7 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ### Histórias:
 [Histórias](https://docs.google.com/document/d/1_YSscmlTVGn41b1v5qjr5izB3jSwSyE_TS-WT7YthzA/edit?usp=sharinga)
 ### Jornadas
-[Jornadas](https://docs.google.com/document/d/10misB9ikd36wNus5Er6NvSV9rlcsPlX8v5ppIzgldgk/edit?usp=sharing).
+[Jornadas](https://docs.google.com/document/d/10misB9ikd36wNus5Er6NvSV9rlcsPlX8v5ppIzgldgk/edit?usp=sharing)
 
 ## 💰Monetização
 [Monetização](https://docs.google.com/document/d/1jei-thDnd4v6yPKlrNNZwc4VZ0_6gmfU/edit?usp=sharing&ouid=100082239877407507277&rtpof=true&sd=true)
@@ -68,8 +68,8 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ## 🤖 Protótipo
 [Protótipo](https://www.figma.com/design/zLMbxKJMbvdY1y13SZvsDA/Untitled?node-id=0-1&t=7Zq54F2dXpquuT1S-1)
 
-## 🎥 Vídeo de apresentação
-[Vídeo de apresentação do projeto](https://we.tl/t-2O5fQ0FB8T)
+## 🎥 Vídeo de apresentação Final
+[Vídeo](https://youtu.be/UTHRY3fENDU)
 
 ## Diagrama E/R
 [Diagrama ER](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
