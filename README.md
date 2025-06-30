@@ -71,6 +71,10 @@ Para ter um desenvolvimento organizado  utilizamos **Git** com a estratégia **G
 ## 🎥 Vídeo de apresentação Final
 [Vídeo](https://youtu.be/UTHRY3fENDU)
 
+## 📝 Documento Final
+[Documento](https://docs.google.com/document/d/1IRvtVRk4Et_cTmOI_GkLuDCoDyADHx5IsrVvkat_Hsc/edit?usp=sharing)
+
+
 ## Diagrama E/R
 [Diagrama ER](https://app.brmodeloweb.com/#!/publicview/683da685a1f73becf72fb5a5)
 
